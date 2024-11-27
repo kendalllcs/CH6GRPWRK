@@ -1,7 +1,3 @@
-Certainly! Based on your previous README and the requirements, here's the new `README.md` file for your current assignment:
-
----
-
 # SVM Digit Classification with PCA and Cross-Validation
 
 ## Members
